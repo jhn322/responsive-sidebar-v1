@@ -1,3 +1,4 @@
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
 *{
@@ -38,6 +39,7 @@ body.open .sidebar{
     width: 300px;
 }
 
+/* Top of the sidebar */
 .sidebar-header{
     display: flex;
     align-items: center;
@@ -52,6 +54,7 @@ body.open .sidebar{
     border-left: 3px solid #7a55ff;
 }
 
+/* Burger icon top of the sidebar */
 .sidebar-burger{
     width: 70px;
     height: 70px;
@@ -84,6 +87,7 @@ body.open .sidebar-logo{
     display: grid;
 }
 
+/* Styling for the sidebar menu */
 .sidebar-menu > button{
     display: flex;
     gap: 12px;
@@ -103,12 +107,14 @@ body.open .sidebar-logo{
     border-left: 3px solid #7a55ff;
 }
 
+/* Adds separator lines in sidebar */
 .sidebar-menu > button.has-border{
     padding-bottom: 1rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.12);
     margin-bottom: 1rem;
 }
 
+ /* Styling for icons */
 .sidebar-menu > button > i{
     font-size: 25px;
     color: #f9f9f9;
@@ -119,6 +125,7 @@ body.open .sidebar-logo{
     color: #bfbfbf;
 }
 
+/* Styling for sidebar text */
 .sidebar-menu > button > span{
     color: #f9f9f9;
     opacity: 0;
