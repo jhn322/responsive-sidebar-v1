@@ -24,7 +24,7 @@ button {
     left: 0;
     width: 75px;
     height: 100%;
-    background: rgb(57, 4, 136);
+    background: #390488;
     transition: all 0.4s;
 }
 
@@ -110,7 +110,7 @@ body.open .sidebar-logo{
 /* Adds separator lines in sidebar */
 .sidebar-menu > button.has-border{
     padding-bottom: 1rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 1px solid #ffffff1f;
     margin-bottom: 1rem;
 }
 
@@ -137,10 +137,7 @@ body.open .sidebar-menu > button > span{
     transition: all 0.4s;
 }
 
-<<<<<<< HEAD
 /* Fonts */
-=======
->>>>>>> 506d6f5 (resubmit)
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
 *{
@@ -149,7 +146,7 @@ body.open .sidebar-menu > button > span{
 
 body{
     margin: 0;
-    background: rgb(139, 139, 139);
+    background: #8b8b8b;
 }
 
 button {
@@ -166,7 +163,7 @@ button {
     left: 0;
     width: 75px;
     height: 100%;
-    background: rgb(57, 4, 136);
+    background: #390488;
     transition: all 0.4s;
 }
 
@@ -181,10 +178,7 @@ body.open .sidebar{
     width: 300px;
 }
 
-<<<<<<< HEAD
 /* Top of the sidebar */
-=======
->>>>>>> 506d6f5 (resubmit)
 .sidebar-header{
     display: flex;
     align-items: center;
@@ -199,10 +193,7 @@ body.open .sidebar{
     border-left: 3px solid #7a55ff;
 }
 
-<<<<<<< HEAD
 /* Burger icon top of the sidebar */
-=======
->>>>>>> 506d6f5 (resubmit)
 .sidebar-burger{
     width: 70px;
     height: 70px;
@@ -235,10 +226,7 @@ body.open .sidebar-logo{
     display: grid;
 }
 
-<<<<<<< HEAD
 /* Styling for the sidebar menu */
-=======
->>>>>>> 506d6f5 (resubmit)
 .sidebar-menu > button{
     display: flex;
     gap: 12px;
@@ -258,20 +246,14 @@ body.open .sidebar-logo{
     border-left: 3px solid #7a55ff;
 }
 
-<<<<<<< HEAD
 /* Adds separator lines in sidebar */
-=======
->>>>>>> 506d6f5 (resubmit)
 .sidebar-menu > button.has-border{
     padding-bottom: 1rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    border-bottom: 1px solid #ffffff1f;
     margin-bottom: 1rem;
 }
 
-<<<<<<< HEAD
  /* Styling for icons */
-=======
->>>>>>> 506d6f5 (resubmit)
 .sidebar-menu > button > i{
     font-size: 25px;
     color: #f9f9f9;
@@ -282,10 +264,7 @@ body.open .sidebar-logo{
     color: #bfbfbf;
 }
 
-<<<<<<< HEAD
 /* Styling for sidebar text */
-=======
->>>>>>> 506d6f5 (resubmit)
 .sidebar-menu > button > span{
     color: #f9f9f9;
     opacity: 0;
