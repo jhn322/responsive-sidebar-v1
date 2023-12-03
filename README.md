@@ -6,6 +6,7 @@ New version: https://github.com/jhn322/responsive-sidebar-v2.git
 
 ### GitHub pages link
 
+Version 1:
 https://jhn322.github.io/responsive-sidebar-v1/
 
 Version 2:
